@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my Github Profile 👋
+
+Here, you will find repositories of my ongoing research endeavors. 
+To find out more about my research, visit my private Github page at [https://iseratho.github.io/](https://iseratho.github.io/) or the project page about polarization in public opinion [https://socialcomplab.github.io/polarization/](https://socialcomplab.github.io/polarization/).
 
 <!--
 **Iseratho/Iseratho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
